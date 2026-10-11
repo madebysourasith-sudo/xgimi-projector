@@ -123,5 +123,25 @@
     "path": "assets/scripts/page-director.js",
     "bytes": 64259,
     "sha256": "09422a8afcbbcdb08fb192d2d87f58c28675370c6ae0e33001ae2a3df1c52686"
+  },
+  {
+    "path": "assets/scripts/bootstrap.js",
+    "bytes": 147,
+    "sha256": "cd622eb1c63fbdde08654026097caebe5e790e729adcb0305f88e7f6b3586a84"
+  },
+  {
+    "path": "assets/scripts/motion-data.js",
+    "bytes": 15555,
+    "sha256": "37b004a2fe55648f2c7bac0909ae824362ebbf3cbe80f6e34c8880c932e2a3e7"
+  },
+  {
+    "path": "assets/scripts/shader-button-host.js",
+    "bytes": 6503,
+    "sha256": "282f3b54ba7cc465ece3f3e87dd5881b0c8805aacbad4f7c40b3f4a50f31c804"
+  },
+  {
+    "path": "assets/scripts/warp-text.js",
+    "bytes": 10375,
+    "sha256": "1054f00c595d76894f475def7aeac3d280b6c4ce215c1eae5b4fda4f5ab12402"
   }
 ]
