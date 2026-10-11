@@ -98,5 +98,30 @@
     "path": "assets/images/grain.svg",
     "bytes": 306,
     "sha256": "e1e3b8cf0633c5bcfcfa4c4eac9b4ffac9fe2a550c5c16ebe839dbecb1382973"
+  },
+  {
+    "path": "assets/scripts/gsap.js",
+    "bytes": 72927,
+    "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+  },
+  {
+    "path": "assets/scripts/scroll-trigger.js",
+    "bytes": 44575,
+    "sha256": "b0b14d67b55b0c43c756ac0b106cfcb09d0879945f6ead64451065b0672916a2"
+  },
+  {
+    "path": "assets/scripts/horizon-scene.js",
+    "bytes": 907231,
+    "sha256": "b9ae49aab3fd8e877b56c56c2acc40de797938031b57f5aeb10859121b43622d"
+  },
+  {
+    "path": "assets/scripts/short-scene.js",
+    "bytes": 884629,
+    "sha256": "d47898f7d54c3bd1b01bf1f48894c89f11ffe65e77665e04f55c7b5247a58b34"
+  },
+  {
+    "path": "assets/scripts/page-director.js",
+    "bytes": 64259,
+    "sha256": "09422a8afcbbcdb08fb192d2d87f58c28675370c6ae0e33001ae2a3df1c52686"
   }
 ]
