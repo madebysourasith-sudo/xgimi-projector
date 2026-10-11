@@ -1,0 +1,102 @@
+[
+  {
+    "path": "assets/models/horizon.glb.gz",
+    "bytes": 22894074,
+    "sha256": "42b2fa1a9a22fcb9e83781d9d9973363e265953345c3e00f76f3df1ee32899dc"
+  },
+  {
+    "path": "assets/textures/horizon-atlas.jpg",
+    "bytes": 764654,
+    "sha256": "e6e98914378fa7190c9cad6f8cb7e2c45e1070baacdc352eb33615b4b630aa49"
+  },
+  {
+    "path": "assets/textures/horizon-referenceFront.jpg",
+    "bytes": 421255,
+    "sha256": "1e74077c8f6d0fde58031d375a163748b039c4cd98d3ecec84e4b8201100f298"
+  },
+  {
+    "path": "assets/textures/horizon-studioFront.jpg",
+    "bytes": 82415,
+    "sha256": "9ba0a0c0c1307da09a8044343acb5831cf0a8518f8aa99c795f968edaf577ae5"
+  },
+  {
+    "path": "assets/textures/horizon-targetFront.jpg",
+    "bytes": 369095,
+    "sha256": "69ce4e882a7829a22b5d99de58e39861eaff97b3a4f6852284466445dab64d1a"
+  },
+  {
+    "path": "assets/textures/horizon-referenceRear.jpg",
+    "bytes": 335875,
+    "sha256": "e506649cd1e35f98219991de9b08973f2eef8e4b05b28283d8f3804c53fdbbba"
+  },
+  {
+    "path": "assets/textures/horizon-scopedCloth.png",
+    "bytes": 3872080,
+    "sha256": "144c763d7290f603921b1f2fe135b14dfe4a4ba5b7883e71979ba528d77f4799"
+  },
+  {
+    "path": "assets/models/short.glb.gz",
+    "bytes": 3465953,
+    "sha256": "a211d69886f97906df6696cb626e8467b9a7ee82d5f1c8e16ff90486955185b8"
+  },
+  {
+    "path": "assets/textures/short-optics.jpg",
+    "bytes": 142900,
+    "sha256": "8008559e8501078f30692390d85e7fc507a70aeb6a9447ab919b2af842e097d0"
+  },
+  {
+    "path": "assets/effects/shader-buttons.html",
+    "bytes": 872663,
+    "sha256": "8ec9fe82fb9dacf7f6b172ef816544bd4344d3aba078d2e7d3a8f2ac432ce64b"
+  },
+  {
+    "path": "assets/images/image-01.svg",
+    "bytes": 196,
+    "sha256": "274852c6c34797fad3c1bfed6e4d7f44f4a951ebce4486158c7391467a14cad0"
+  },
+  {
+    "path": "assets/fonts/neue-montreal-light.otf",
+    "bytes": 202404,
+    "sha256": "0375667c5e8faecd21559f72f6c54c4ec21cc5e6110b8ef5e282dc2ddbaf88e5"
+  },
+  {
+    "path": "assets/fonts/neue-montreal-regular.otf",
+    "bytes": 196112,
+    "sha256": "69bcecee993d4564980d8e082d4f15a461fd1f7e8ebbc36e8533d9e95f0131f8"
+  },
+  {
+    "path": "assets/fonts/neue-montreal-semibold.otf",
+    "bytes": 213064,
+    "sha256": "437ad49efdf9812ec50df7440fab56f66f1c8311ce9f276c1473919b63a1050d"
+  },
+  {
+    "path": "assets/fonts/outfit-variable.ttf",
+    "bytes": 110884,
+    "sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade"
+  },
+  {
+    "path": "assets/images/image-02.svg",
+    "bytes": 472,
+    "sha256": "67286585c97329ce32594416b684c31854fdc7fc4821fe0254912d3b23216608"
+  },
+  {
+    "path": "assets/images/image-03.jpg",
+    "bytes": 44903,
+    "sha256": "ced0b4a08c6ffcfa45f6119a703d94eda79f71308b2c4daf3764dc92ecaa2868"
+  },
+  {
+    "path": "assets/video/video-01.mp4",
+    "bytes": 6999174,
+    "sha256": "9d2ebbd6106c412eded728ff50c7823bf79f84a6fffbb9f85f8f11299e8668fe"
+  },
+  {
+    "path": "assets/images/image-04.jpg",
+    "bytes": 99094,
+    "sha256": "dc8847f259a07e9f1006cd1f88ce834375d338d8e358c9f89e45586e86e76492"
+  },
+  {
+    "path": "assets/images/grain.svg",
+    "bytes": 306,
+    "sha256": "e1e3b8cf0633c5bcfcfa4c4eac9b4ffac9fe2a550c5c16ebe839dbecb1382973"
+  }
+]
