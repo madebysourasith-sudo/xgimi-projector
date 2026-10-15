@@ -1,7 +1,9 @@
 # XGIMI — Cinema, made personal
 
-A cinematic XGIMI projector showcase featuring interactive 3D models, Graphite and Porcelain finishes, immersive scroll animation, and a guided home cinema experience.
+A cinematic projector landing page with interactive 3D models.
 
-Static HTML site prepared for Aura import. All media, fonts, textures, compressed GLB models, and the shader button source are stored in `assets/`. The page uses public jsDelivr GitHub asset URLs with CORS support.
+Import `index.html` into Aura. The HTML is under 5 MB and loads images, textures, fonts and video from the owner’s Aura media library. The two models are Meshopt-compressed and hosted on GitHub through jsDelivr; their combined compressed size is 5.31 MB, down from 26.36 MB. Mesh geometry is retained with reduced numeric precision. The full media collection is separate from the HTML import and is not a standalone package under 5 MB.
 
-The original standalone source remains unchanged.
+Public Aura media URLs are listed in `aura-asset-urls.json`. Serve the HTML over HTTP(S) for local previews. The original model revisions remain recoverable in Git history.
+
+Meshoptimizer is distributed under the MIT license; see `LICENSE-meshoptimizer.txt`.
